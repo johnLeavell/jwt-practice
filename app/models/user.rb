@@ -3,7 +3,7 @@ class User < ApplicationRecord
 
     validates :username, uniqueness: { case_sensitive: false }
     validates :password, length: {
-        min: 6,
+        min: 4,
         max: 20,
     }
 end

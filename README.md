@@ -79,3 +79,10 @@ authenticatea them
 create a token
 -- sign it
 -- send it
+
+
+Verify users' identiy in rails
+
+issue signed tokens
+
+differentiate between authorization and authentication 
