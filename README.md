@@ -69,3 +69,13 @@ class User < ApplicationRecord
   validates :username, uniqueness: { case_sensitive: false }
 end
 
+add user_serializer actions
+
+----
+create a login route
+createa a longin contorller/action
+look up a user
+authenticatea them
+create a token
+-- sign it
+-- send it
