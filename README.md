@@ -86,3 +86,9 @@ Verify users' identiy in rails
 issue signed tokens
 
 differentiate between authorization and authentication 
+
+
+
+
+*** Part 3 Protect Resources ** (pt 2 59:00 )
+
